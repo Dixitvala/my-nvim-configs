@@ -2,4 +2,4 @@ vim.g.mapleader = " "
 
 local key = vim.keymap
 
-key.set("n", "<leader>pv", vim.cmd.Ex)
+kfind_filesey.set("n", "<leader>pv", vim.cmd.Ex)
